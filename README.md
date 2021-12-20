@@ -21,6 +21,11 @@ Official binary distributions are available at https://golang.org/dl/.
 After downloading a binary release, visit https://golang.org/doc/install
 for installation instructions.
 
+On Linux you can install snap go package:
+```
+sudo snap install go --classic
+```
+
 #### Install From Source
 
 If a binary distribution is not available for your combination of
